@@ -213,9 +213,6 @@ map <C-l> <C-W>l
 " nerdtree 目录开关
 map <C-n> :NERDTreeToggle<CR>
 
-" easymotion 开关
-nmap ss <Plug>(easymotion-s2)	
-
 " CtrlP 开关
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
