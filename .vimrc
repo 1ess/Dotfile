@@ -26,7 +26,6 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'easymotion/vim-easymotion'
 Plug 'godlygeek/tabular'
 Plug 'plasticboy/vim-markdown'
-Plug 'powerline/powerline'
 call plug#end()
 
 " ==========================================
