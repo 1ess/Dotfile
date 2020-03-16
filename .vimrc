@@ -96,6 +96,8 @@ set statusline=%<%f\ %h%m%r%=%k[%{(&fenc==\"\")?&enc:&fenc}%{(&bomb?\",BOM\":\"\
 set laststatus=2
 " 显示行号
 set number
+" 显示相对行号
+set relativenumber
 " 取消换行
 set nowrap
 " 括号配对情况, 跳转并高亮一下匹配的括号
