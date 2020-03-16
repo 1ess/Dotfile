@@ -220,6 +220,8 @@ map <C-n> :NERDTreeToggle<CR>
 " CtrlP 开关
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
+" 搜索隐藏文件
+let g:ctrlp_show_hidden = 1
 
 " ==========================================
 " Theme Settings  主题设置
