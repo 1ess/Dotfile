@@ -31,6 +31,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'ybian/smartim'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'ryanoasis/vim-devicons'
+Plug 'yonchu/accelerated-smooth-scroll'
 call plug#end()
 
 " ==========================================
