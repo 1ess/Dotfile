@@ -1,1 +1,1 @@
-dotfile 备份
+Welcome to my $HOME.
