@@ -1,4 +1,4 @@
-" Author:  张冬冬
+" Author: Stephen Chang
 " 
 " Note: Don't put anything in your .vimrc you don't understand!
 
